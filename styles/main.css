@@ -24,7 +24,7 @@ p {
   animation: bodyAnimate 5s linear 0s infinite normal forwards;
 }
 
-/* @keyframes bodyAnimate {
+@keyframes bodyAnimate {
 	0% {
 		background-color: black;
 	}
@@ -36,7 +36,7 @@ p {
 	100% {
 		background-color: black;
 	}
-} */
+}
 
 .section {
   min-height: 100vh;
