@@ -185,6 +185,7 @@ p {
     height: 300px;
     max-height: 300px;
     min-height: 300px;
+    object-position: center;
   }
 
   .hz-title {
