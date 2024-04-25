@@ -150,6 +150,12 @@ p {
   box-shadow: none;
 }
 
+.footer {
+  background-image: url(../img/new.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
 @media(max-width: 1240px) {
   .container {
     width: 900px;
@@ -179,6 +185,10 @@ p {
     height: 300px;
     max-height: 300px;
     min-height: 300px;
+  }
+
+  .hz-title {
+    font-size: 35px;
   }
 }
 
